@@ -9,7 +9,7 @@
 ![](images/tessera.svg) msc data science @ king's <br>
 ![](images/column.svg) basc arts & sciences @ ucl <br>
 ![](images/wave.svg) research interests: time series forecasting & reinforcement learning <br>
-![](images/amphora.svg) off-screen: material culture, ancient jewellery, ceramics
+![](images/amphora.svg) off screen: material culture, ancient jewellery, ceramics
 
 ## ![](images/brackets.svg) toolkit
 
