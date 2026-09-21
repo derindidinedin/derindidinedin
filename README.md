@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="images/dd_monogram_shared_spine.png" width="210" alt="dd" />
+<img src="images/three_in_a_row.png" width="210" alt="dd" />
 
 </div>
 
