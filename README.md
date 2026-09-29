@@ -36,9 +36,9 @@
 
 | name | description |
 | --- | --- |
-| [`argue-to-cook`] (https://github.com/derindidinedin/argue-to-cook) | msc thesis on multi-agent reinforcement learning. investigates whether a value based argumentation framework with state adaptive rules improves PPO coordination between two agents in the overcooked-ai cooperative environment |
+| [argue-to-cook](https://github.com/derindidinedin/argue-to-cook) | msc thesis on multi-agent reinforcement learning. investigates whether a value based argumentation framework with state adaptive rules improves PPO coordination between two agents in the overcooked-ai cooperative environment |
 | `tsfm-benchmark` | a walk forward benchmarking study of a time series foundation model (Chronos 2) against XGBoost and ARIMA-GARCH on forecasting digital asset log returns. investigates whether a pretrained TSFM beats traditional and ML baselines |
-| [`derindidinedin.com`](https://derindidinedin.com) | personal website including a generative roman mosaic, formed through a rule based compositional grammar doing procedural generation over a constraint system, the way ancient workshops worked |
+| [derindidinedin.com](https://derindidinedin.com) | personal website including a generative roman mosaic, formed through a rule based compositional grammar doing procedural generation over a constraint system, the way ancient workshops worked |
 
 <!-- GITHUB STATS — commented out for now
 ## ![](images/star.svg) github
