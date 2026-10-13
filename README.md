@@ -30,13 +30,17 @@
 ## ![](images/brackets.svg) toolkit
 
 ![](images/shell.svg) python · R · sql <br>
-![](images/vine.svg) pytorch · hugging face · scikit-learn
+![](images/vine.svg) pytorch · hugging face · scikit-learn <br>
+![](images/kantharos.svg) spark · databricks · git
 
 ## ![](images/quatrefoil.svg) building
 
 | name | description |
 | --- | --- |
 | [argue-to-cook](https://github.com/derindidinedin/argue-to-cook) | msc thesis on multi-agent reinforcement learning. investigates whether a value based argumentation framework with state adaptive rules improves PPO coordination between two agents in the overcooked-ai cooperative environment |
+| [global-innovation-index-ml](https://github.com/derindidinedin/global-innovation-index-ml) | ucl coursework on national innovation. investigates how far a country's global innovation index rank can be predicted from its economic indicators, comparing a random forest with a neural network |
+| [Crime-in-London](https://github.com/derindidinedin/Crime-in-London) | group project on crime across london boroughs. investigates how income, education and employment relate to where crime hotspots emerge |
+| [QM2](https://github.com/derindidinedin/QM2) | my workbooks from ucl's quantitative methods 2, covering pandas, text as data, spatial data, regression and causal inference |
 | `tsfm-benchmark` | a walk forward benchmarking study of a time series foundation model (Chronos 2) against XGBoost and ARIMA-GARCH on forecasting digital asset log returns. investigates whether a pretrained TSFM beats traditional and ML baselines |
 | [derindidinedin.com](https://derindidinedin.com) | personal website including a generative roman mosaic, formed through a rule based compositional grammar doing procedural generation over a constraint system, the way ancient workshops worked |
 
@@ -54,4 +58,5 @@
 
 ## ![](images/laurel.svg) find me
 
+![](images/clover.svg) linkedin: [`derin-didinedin`](https://linkedin.com/in/derin-didinedin) <br>
 ![](images/fish.svg) website: [`derindidinedin.com`](https://derindidinedin.com) _(coming soon)_
